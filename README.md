@@ -1,1 +1,3 @@
--Open on your desktop browser to play the Mario Puzzle Image Game
+- simple mario puzzle game I created when I was learning Javascript and CSS . 
+
+- plays better on desktop browsers.
